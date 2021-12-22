@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Test with pytest
-        run: Test_MyClass -vv
+        run: Test_MyClass.py -vv
